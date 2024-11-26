@@ -1,3 +1,3 @@
 # Ruben-Bluekens
-Student Bio-Ingenieur aan UAntwerpen
+Student Bio-Ingenieur aan UAntwerpen \
 Jobstudent bij Umicore België
